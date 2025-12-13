@@ -1,5 +1,5 @@
 
-##Project Overview
+## Project Overview
 
 The goal of this program is to assign a set of tasks with specific durations to a fixed number of identical parallel machines. The objective is to minimize the **makespan** (the time when the last machine finishes its work).
 
