@@ -1,1 +1,1 @@
-
+The code experiments with the implementation and comparative analysis of generative deep learning architectures applied to the FashionMNIST dataset. The main objective was to develop systems capable of generating artificial samples conditioned on a specific class (garment type). The study covered two families of models: Conditional Variational Autoencoders (CVAE) and Conditional Generative Adversarial Networks (CGAN).
