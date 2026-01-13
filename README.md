@@ -1,2 +1,2 @@
 # Projects
-Portfolio with my personal projects
+Portfolio with my some of my last personal projects
